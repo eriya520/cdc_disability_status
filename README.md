@@ -2,8 +2,8 @@
 This repo explore hidden correlations of disability prevalnce across different demographic groups via data analysis, and attempt to deveop multiclassifier model to predict both disability status and types based on demographic groups. The goal is to provide insights which enable policymakers, healthcare providers and advocacy organizations to tailor interventions, allocate resources more effectively, and design support services that address the specific challenges faced by different populations. 
 
 # Data source
-Used Data published by CDC  `DHDS - Prevalence of Disability Status and Types by Demographic Groups, 2021` last updated on Jan. 29, 2025
-link: https://data.cdc.gov/Disability-Health/DHDS-Prevalence-of-Disability-Status-and-Types-by-/qjg3-6acf/about_data
+- Used Data published by CDC  `DHDS - Prevalence of Disability Status and Types by Demographic Groups, 2021` last updated on Jan. 29, 2025
+- link: https://data.cdc.gov/Disability-Health/DHDS-Prevalence-of-Disability-Status-and-Types-by-/qjg3-6acf/about_data
 
 # What's included in the repo?
 - course_project.ipynb : notebook to data loading, processing, EDA and visualization, model selection and evaluation, feature importance
